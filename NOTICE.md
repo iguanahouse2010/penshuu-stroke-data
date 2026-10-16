@@ -16,7 +16,7 @@ Each file is named by its character's Unicode code point in hexadecimal. For exa
 ## Sources
 
 - **AnimCJK.** AnimCJK project - Copyright 2016-2025 - FM&SH. <https://github.com/parsimonhi/animCJK>, revision `95af6e64ea347c881df7c2d95b22e1e2f7c2fb8d` (2025-10-06). Its own notice, `licenses/COPYING.txt`, states that AnimCJK is derived from the Arphic PL KaitiM GB font, the Arphic PL UKai font and the Makemeahanzi project.
-- **KanjiVG.** © Ulrich Apel. <https://kanjivg.tagaini.net/>, release r20160426.
+- **KanjiVG.** © Ulrich Apel. <https://kanjivg.tagaini.net/>. The `type` values come from KanjiVG's development version as of 2026-03-01 (commit `0b4309cf6d74799b0e4b72940d8267fbe73f72d0`), except that 28 files match its earlier release r20160426 instead. The stroke order in item 3 was checked against release r20160426.
 
 ## Licenses, field by field
 
